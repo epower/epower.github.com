@@ -5,10 +5,27 @@ h1{
     letter-spacing: -.05em;
     text-align: left;
     font-family: HelveticaNeue-Light, Helvetica, Arial;    
-    font-weight: bold;    
+    font-weight: bold;
+    color:#BFBD97;    
 }
 
 body{
     font-family: HelveticaNeue-Light, Helvetica, Arial;
     margin-left: 18px;
+    background-color:#E6E3B3;
+    color:#0D0100;
 }
+
+a{
+    color:#DB0007;
+}
+
+img{
+    border:18px solid #FFFFFF;
+    max-width:450px;
+}
+
+#dot{
+    color:#DB0007;
+}
+
