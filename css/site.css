@@ -1,0 +1,14 @@
+h1{
+    font-size: 108px;
+    top: 4px;
+    line-height: 90px;
+    letter-spacing: -.05em;
+    text-align: left;
+    font-family: HelveticaNeue-Light, Helvetica, Arial;    
+    font-weight: bold;    
+}
+
+body{
+    font-family: HelveticaNeue-Light, Helvetica, Arial;
+    margin-left: 18px;
+}
