@@ -15,12 +15,20 @@
                     {{ content }}
                 </section>
                 <aside id="other-stuff" class="column width1">
-                    <h2> posts </h2>
+                    <h2>pieces of me</h2>
+			<ul>
+			    <li><a href="https://github.com/epower">github</a></li>
+			    <li><a href="http://ie.linkedin.com/in/eamonnpower">linkedin</a></li>
+			    <li>photos</li>
+			</ul>
+
+		    <h2> posts </h2>
                         <ul>
                             {% for post in site.posts %}
-                                <li> <a href="{{ post.url }}"><strong>{{ post.title }}</strong> <small>{{ post.date }}</small></li>
+                                <li> <a href="{{ post.url }}"><strong>{{ post.title }}</strong> <small>{{ post.date | date:"%a %d %b %Y" }}</small></a></li>
                             {% endfor %}
-                        </ul>                
+                        </ul>
+		    
                 </aside>
             </article>
         </div>
