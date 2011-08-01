@@ -9,11 +9,20 @@ h1{
     color:#BFBD97;    
 }
 
+h2{
+	letter-spacing: -0.1em;
+	font-weight: bold;
+}
+
 body{
     font-family: HelveticaNeue-Light, Helvetica, Arial;
     margin-left: 18px;
     background-color:#E6E3B3;
     color:#0D0100;
+}
+
+p{
+	margin-bottom: 18px;
 }
 
 a{
