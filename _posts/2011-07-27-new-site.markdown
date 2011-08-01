@@ -1,9 +1,9 @@
----
+--
 title: New Site!!
 layout: post
 ---
-I've been messing around with web stuff since I first put a web page together on an eircom hosting account in 1994/1995. In 2001, I taught myself PHP and did osme more messing. Around the same time, I bought a [domain](http://www.powery.net). Since 2004/2005, [WordPress](http://www.wordpress.org) has been my publishing platform of choice. 
+I've been messing around with web stuff since I first put a web page together on an eircom hosting account in 1994/1995. In 2001/2002, I taught myself PHP and did some more messing. Around the same time, I bought a [domain](http://www.powery.net). Since 2004/2005, [WordPress](http://www.wordpress.org) has been my publishing platform of choice. 
 
-Recently though, either WordPress has been getting heavier or my host has been getting slower. Either way, my humble homepage has been taking time to load. Time for a change. I'd looked at Jekyll a while and thought very little at the time. But then I decide I also needed to start using my [github](http://www.github.com) account for something useful. And they have github pages. And they support rednering Jekyll-based sites on commit. OK. We've got a small, well-defined project. 
+Recently though, either WordPress has been getting heavier or my host has been getting slower. Either way, my humble homepage has been taking time to load. Time for a change. I'd looked at Jekyll a while ago and thought very little at the time. But then I decide I also needed to start using my [github](http://www.github.com) account for something useful. And they have github pages. And they support rednering Jekyll-based sites on commit. OK. We've got a small, well-defined project. 
 
-So what you're looking at is the result of my trail (and error). It also has the convenient side effect of being easy to edit on a plane (no net connection) and commit the results when I get home. Additionally, I can merge witterings from one of the many machines I have access to. All it needs in git, ssh and vim. Done and dusted.  
+So what you're looking at is the result of my trail (and error). It also has the convenient side effect of being easy to edit on a plane (no net connection) and commit the results when I get home. Additionally, I can merge witterings from one of the many machines I have access to. All it needs is git, ssh and vim. Done and dusted. 
