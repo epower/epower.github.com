@@ -3,5 +3,5 @@ title: Pub Grub
 layout: post 
 ---
 
-I regularly end up having lunch at O'Donnacha's of Kilmeaden (t: +353 51 384413 e: odonnachasbar@gmail.com).
+I regularly end up having lunch at O'Donnacha's of Kilmeaden (t: +353 51 384413 e: <odonnachasbar@gmail.com>).
 
