@@ -1,0 +1,30 @@
+---
+title: Walls 
+layout: post
+---
+
+When Facebook came along, it was an interesting site on the Web. It evolved and people figured that it was the best example of the social graph (see FOAF, XFN,
+ etc. ). It was accessible to the general public and spread rapidly.
+
+!['Facebook Popularity'](http://upload.wikimedia.org/wikipedia/commons/5/56/Facebook_popularity.PNG)
+
+Of course, the business model for Facebook is to get a better idea about you. To do so, facebook.com reaches out into your daily browsing with the 'Like' button and embedded comments on webpages which are from facebook friends. 
+
+Previously, I used to repeat blogposts into my facebook profile as notes. Not anymore.
+
+### Changes to How You Share Content in Notes
+Time was you automatically import content from your website or blog into your Facebook notes. Starting November 22nd 2011, this feature was no longer to be available, although you were still be able to write individual notes. The best way to share content from your website is to post links on your Wall.
+
+All your interaction is safely locked away in Facebook. 
+
+Well shortly afterward, I hear about ThinkUp. This interesting and freely available application is based on a number of [good ideas](http://dashes.com/anil/2011/11/thinkup-1.0.html). Which is great when Facebook properly document their APIs (and subsequent updates). 
+
+Next nail in the coffin was a big modification to another favourite web app of mine. Google Reader killed off the RSS feeds feature in favour of Google Plus integration. This was good for Plus - sharing now happens through this. Bad news was that my microblogging about Reader based shares was now gone (and feeding into other services). 
+
+Then on the last day of 2011, Dave Winer wrote about the [Un-Internet](http://scripting.com/stories/2011/12/31/theUninternet.html). He spoke about the 15 year cycle where the users wrestle control of whatever is popular and useful in the digital domain from private companies into the commons. Past examples include operating systems, compilers, application development frameworks, drivers for devices, databases, large scale data analytics, web-browsers, e-mail and many others.
+
+I guess the pattern that becomes apparent is that someone comes up with an idea. The idea is of such great importance that it becomes part of a business and people made loads of money. The idea becomes pervasive and gains such momentum that either there is need for regulation from governement or it get spun into the commons without the ties to the business. Once these happen, the business (not the company though in all cases) changes and declines. The idea continues to be used and becomes part of society. 
+
+So possibly fifty years from now, after Facebook goes public, after it makes loads and then a commons social network emerges. One that was to Compuserv and AOL what the web browser was. And long after, the lasting contribution of Mark Zuckerberg to human culture might be a verb "[zucked](http://www.urbandictionary.com/define.php?term=zucked)". Then again, he might end up being the shining light of charity that [Bill Gates seems to have become](http://holykaw.alltop.com/bill-gates-is-better-than-batman-infographic).
+
+There's a final chapter to this however that hasn't been completed yet. Researchers around the world are working on the next little thing that eats all the other big things. Won't this be interesting?
