@@ -4,6 +4,6 @@ require 'date'
 
 postname = ARGV[0]
 current_date = Date.today.to_s
-post = File.new("#{current_date}-#{postname}.markdown", "w")
+post = File.new("#{current_date}-#{postname.gsub(" ", "-")}.markdown", "w")
 post.puts("---\ntitle: #{postname}\nlayout: post\n---\n")
 post.close
