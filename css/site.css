@@ -10,12 +10,12 @@ h1{
 }
 
 h2{
-	letter-spacing: -0.02em;
-	font-weight: bold;
+    letter-spacing: -0.02em;
+    font-weight: bold;
 }
 
 body{
-	font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
     /* font-family: HelveticaNeue-Light, Helvetica, Arial; */
     margin-left: 18px;
     background-color:#E6E3B3;
@@ -23,7 +23,15 @@ body{
 }
 
 p{
-	margin-bottom: 18px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+pre{
+}
+
+code{
+    white-space: pre-wrap;
 }
 
 a{
@@ -36,9 +44,7 @@ img{
 }
 
 #blog{
-	color:#9F9E78;
-	// color:#C0BE98;
-
+    color:#9F9E78;
 }
 
 #dot{
