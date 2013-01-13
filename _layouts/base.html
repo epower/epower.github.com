@@ -2,14 +2,14 @@
 <html lang="en"> 
     <head>
 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ page.title }}</title>
-	<link type="text/css" rel="stylesheet" media="screen" href="/css/compressed/baseline.compress.css">
-	<link type="text/css" rel="stylesheet" media="screen" href="/css/site.css">
-	<link href='http://fonts.googleapis.com/css?family=Lato:300' rel='stylesheet' type='text/css'>
+	<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
 	<link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="powery.net feed" />
     </head>
     <body class="page-grid">
-        <div id="page" class="layout-grid">
+        <div id="page" class="container">
             <header class="width3">
                  <h1><span id="blog">powery</span><span id="dot">.</span>net </h1>
             </header>
@@ -39,6 +39,20 @@
                 </section>
             </article>
         </div>
+	<!-- Placed at the end of the document so the pages load faster -->
+	<script src="/js/jquery.js"></script>
+	<script src="/js/bootstrap-transition.js"></script>
+	<script src="/js/bootstrap-alert.js"></script>
+	<script src="/js/bootstrap-modal.js"></script>
+	<script src="/js/bootstrap-dropdown.js"></script>
+	<script src="/js/bootstrap-scrollspy.js"></script>
+	<script src="/js/bootstrap-tab.js"></script>
+	<script src="/js/bootstrap-tooltip.js"></script>
+	<script src="/js/bootstrap-popover.js"></script>
+	<script src="/js/bootstrap-button.js"></script>
+	<script src="/js/bootstrap-collapse.js"></script>
+	<script src="/js/bootstrap-carousel.js"></script>
+	<script src="/js/bootstrap-typeahead.js"></script>
     </body>
 </html>
 
