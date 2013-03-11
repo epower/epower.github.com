@@ -4,3 +4,4 @@ layout: base
 ---
 <h2> {{ site.posts.first.title }} </h2>
 {{ site.posts.first.content }}
+<p><span id="date"><small>{{ site.posts[0].date | date:"%a %d %b %Y" }}</small></span></p>
