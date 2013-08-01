@@ -1,0 +1,7 @@
+---
+title: Bower
+layout: post
+---
+I noticed that [Bootstrap 3](http://getbootstrap.com/) arrived the other day so this was a good excuse to try out an upgrade. At the same time, I'd also been using [Twitter Bower](http://bower.io/) for the last couple of months. Given that I'm using Bootstrap, Font Awesome and jQuery, I built a Bower file to let me manage the whole lot.
+
+![Bower Logo](http://bower.io/img/bower-logo.png)
