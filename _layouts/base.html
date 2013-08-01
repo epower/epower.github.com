@@ -4,27 +4,31 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>{{ page.title }}</title>
-	<link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
-	<link href="/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen">
-	<link href="/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<!-- <link href="/css/bootstrap-responsive.min.css" rel="stylesheet" media="screen"> -->
+	<link href="/bower_components/components-font-awesome/css/font-awesome.min.css" rel="stylesheet" media="screen">
 	<link href="/css/site.css" rel="stylesheet" media="screen"/>
 	<link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="powery.net feed" />
     </head>
-    <body class="page-grid">
+    <body>
         <div id="page" class="container">
-            <header>
-                 <h1><span id="blog">powery</span><span id="dot">.</span>net </h1>
-		 <ul class="nav nav-pills">
-		    <li><a href="/index.html"><i class="icon-home"></i> Home</a></li>
-		    <li><a href="/about.html"><i class="icon-info-sign"></i> About</a></li>
-		    <li><a href="/archive.html"><i class="icon-calendar"></i> Archive</a></li>
-		 </ul>
-            </header>
-            <article>
-		{{ content }}
-            </article>
+            <div class="row">
+              <div class="col-12">
+                <header>
+                     <h1><span id="blog">powery</span><span id="dot">.</span>net </h1>
+                     <ul class="nav nav-pills">
+                        <li><a href="/index.html"><i class="icon-home"></i> Home</a></li>
+                        <li><a href="/about.html"><i class="icon-info-sign"></i> About</a></li>
+                        <li><a href="/archive.html"><i class="icon-calendar"></i> Archive</a></li>
+                     </ul>
+                </header>
+                <article>
+                    {{ content }}
+                </article>
+              </div>
+            </div>
         </div>
 	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="/js/bootstrap.min.js"></script>
+	<script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     </body>
 </html>

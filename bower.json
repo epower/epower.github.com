@@ -1,0 +1,16 @@
+{
+  "name": "epower.github.com",
+  "version": "0.0.2",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0-rc1",
+    "components-font-awesome": "~3.2.1"
+  }
+}
