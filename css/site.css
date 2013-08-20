@@ -1,3 +1,8 @@
 #dot{
     color:#DB0007;
 }
+
+article img{
+  max-width: 75%;
+  min-width: 50%;
+}
