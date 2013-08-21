@@ -9,7 +9,7 @@ Interesting [point](http://www.yourtechstuff.com/techwire/2010/05/google-microso
 
 To be fair, the customers pay their bills for a contented service and the publishers pay for usually expensive backbone connections. Does this not achieve this purpose already?
 
-What would be their proposed business model for getting support from publishers? Would their be a threshhold of traffic traversing the operators network above which a publisher gets charged? Would their be an attempt to get big publishers to sign deals so traffic can reach customers in a timely manner? Or would they try something like the TV licence approach ("its theoretically not feasible to administer such a billing scheme so we just charge everyone")?
+What would be their proposed business model for getting support from publishers? Would there be a threshold of traffic traversing the operators network above which a publisher gets charged? Would there be an attempt to get big publishers to sign deals so traffic can reach customers in a timely manner? Or would they try something like the TV licence approach ("its theoretically not feasible to administer such a billing scheme so we just charge everyone")?
 
-While they're currently within their rights to try to govern the traffic on their network, I can't imagine the average home customers or publishers liking it too much. The customers could move to another network and the publishers could block traffic going to the network that levies them with additional charges.
+While they're currently within their rights to try to govern the traffic on their network, I can't imagine the average home customer or publishers liking it too much. The customers could move to another network and the publishers could block traffic going to the network that levies them with additional charges.
 
