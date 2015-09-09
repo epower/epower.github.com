@@ -10,3 +10,4 @@ I've applied some tools to what I use on my desktop setup for work.
 * [Spectacle](http://spectacleapp.com/) - Move and resize windows with ease. Window control with simple, customizable keyboard shortcuts.
 * [iTerm2](http://iterm2.com/) - iTerm2 is a replacement for Terminal. Version 2 does handy terminal splitting and has tmux integration. 
 * [Bearded Spice](http://beardedspice.com/) - control browser-based media players with Mac media keys
+* [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
