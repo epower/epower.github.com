@@ -4,12 +4,13 @@ layout: post
 ---
 
 The following are some notes so I don't forget what I did with Solaris 11 on given hosts:
- - I've got a single host with a few interfaces connected to a switch
- - I've added link aggregation (but only with single interfaces) in front of the physical. This is for a later project where I'll be looking at link aggregation and LACP.
- - I'd like to run a few zones on 2 of the interfaces/aggrs.
-   - the first interface is connected to a DMZ for external facing connectivity
-   - the second interface is connected to an internal VLAN for local services
- - on another interface, I'd like to create an ip interface for connecting to the host for management
+ 
+- I've got a single host with a few interfaces connected to a switch
+- I've added link aggregation (but only with single interfaces) in front of the physical. This is for a later project where I'll be looking at link aggregation and LACP.
+- I'd like to run a few zones on 2 of the interfaces/aggrs.
+  - the first interface is connected to a DMZ for external facing connectivity
+  - the second interface is connected to an internal VLAN for local services
+- on another interface, I'd like to create an ip interface for connecting to the host for management
 
 ## Comments
 
