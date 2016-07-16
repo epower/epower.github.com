@@ -1,1 +1,4 @@
+---
+layout: nil
+---
 {{ site.posts| jsonify }}
