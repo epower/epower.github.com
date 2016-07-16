@@ -1,4 +1,8 @@
 ---
 layout: nil
 ---
-{{ site.posts|jsonify }}
+[
+{% for post in site.posts %}
+{"title": "{{ post.title }}"},
+{% endfor %}
+]
