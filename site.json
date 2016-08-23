@@ -1,8 +1,9 @@
 ---
 layout: nil
 ---
-"site": [
+[
 {% for post in site.posts %}
-{"title": "{{ post.title }}"},
+{"title": "{{ post.title }}"}
+{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
