@@ -4,7 +4,6 @@ destination: ./_site
 
 lsi:         false
 pygments:    true
-markdown:    rdiscount
 permalink:   date
 url:         http://powery.net
 encoding:    utf-8
