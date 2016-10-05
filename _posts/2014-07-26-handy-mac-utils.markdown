@@ -13,6 +13,7 @@ I've applied some tools to what I use on my desktop setup for work.
 * [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
 
 Other tools include
+
 - adium
 - android-file-transfer
 - android-studio
