@@ -11,3 +11,27 @@ I've applied some tools to what I use on my desktop setup for work.
 * [iTerm2](http://iterm2.com/) - iTerm2 is a replacement for Terminal. Version 2 does handy terminal splitting and has tmux integration. 
 * [Bearded Spice](http://beardedspice.com/) - control browser-based media players with Mac media keys
 * [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
+
+Other tools include
+- adium
+- android-file-transfer
+- android-studio
+- audacity
+- chicken
+- gimp
+- inkscape
+- java
+- keybase
+- mactex
+- osxfuse
+- owncloud
+- p4v
+- pencil
+- skype
+- soundflower
+- spectacle
+- sqlitebrowser
+- tcl
+- virtualbox
+- vlc
+- xquartz
