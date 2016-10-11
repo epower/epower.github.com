@@ -11,6 +11,7 @@ I've applied some tools to what I use on my desktop setup for work.
 * [iTerm2](http://iterm2.com/) - iTerm2 is a replacement for Terminal. Version 2 does handy terminal splitting and has tmux integration. 
 * [Bearded Spice](http://beardedspice.com/) - control browser-based media players with Mac media keys
 * [itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
+* [qlmarkdown](https://github.com/toland/qlmarkdown) - QuickLook Generator for Markdown files
 
 Other tools include
 
