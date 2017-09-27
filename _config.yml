@@ -3,7 +3,7 @@ safe:        true
 destination: ./_site
 
 lsi:         false
-highlighter: rogue
+highlighter: rouge
 permalink:   date
 url:         http://powery.net
 encoding:    utf-8
