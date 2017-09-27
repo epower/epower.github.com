@@ -3,6 +3,8 @@ title: Moving Gitlab
 layout: post
 ---
 
+![deploy in progress](images/gitlab-deploy-page.png)
+
 On the source host:
 
 ```
