@@ -1,6 +1,7 @@
 ---
 title: Moving Gitlab
 layout: post
+published: true
 ---
 
 ![deploy in progress](images/gitlab-deploy-page.png)
@@ -30,6 +31,4 @@ $ gitlab-ctl deploy-page down
 
 ```
 
-At this point, you can make tweaks to '/etc/gitlab/gitlab.rb' and run `gitlab-ctl reconfigure`.
-
-
+At this point, you can make tweaks to `/etc/gitlab/gitlab.rb` and run `gitlab-ctl reconfigure`.
