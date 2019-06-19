@@ -11,5 +11,6 @@ Perhaps something more like:
 2. Declarative YAML configuration is brilliant.
 3. Lots of our things look similar, we have too much copy and pasted YAML. 
 4. Perhaps its time to update the tool parsing the YAML to operate at higher levels of abstraction keeping the required YAML simple and to the point.
+5. Perhaps I need a tool with a higher level of abstraction.
 
 I've definitly felt this happening to me whem making tools with a configuration option in the past.
