@@ -4,7 +4,7 @@ layout: post
 published: true
 ---
 
-![deploy in progress](images/gitlab-deploy-page.png)
+![deploy in progress](/images/gitlab-deploy-page.png)
 
 On the source host:
 
