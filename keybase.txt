@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/epower
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://powery.net
+  * I am epower (https://keybase.io/epower) on keybase.
+  * I have a public key ASD2eVIop8O3V1kePKuljqxall5K9Q6e8UiezqfwGGOqsQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101fceb52dacf56d7d48a7c174f200b0ba52e265b8f4b0ba73a09641abfd0ecc2570a",
+      "host": "keybase.io",
+      "kid": "0120f6795228a7c3b757591e3caba58eac5a965e4af50e9ef1489ecea7f01863aab10a",
+      "uid": "97683e890f8f04362a8bdafd27a82e00",
+      "username": "epower"
+    },
+    "merkle_root": {
+      "ctime": 1572341785,
+      "hash": "b51631c85ffe3b96314dfc587b5ea100354a3942d2ab0ae52bfbb25c8e6717301491d0e8eaee1fe0e849981820401b1cc0ce97502f8dcdafe3a2c54f5cd463b3",
+      "hash_meta": "2f1b660eaf174e80253494101abcfc4aab6cc6fe1e58810c9c0b434f79537967",
+      "seqno": 8483167
+    },
+    "service": {
+      "entropy": "6loFNM6tB4GtENOF7w/biiSU",
+      "hostname": "powery.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1572341797,
+  "expire_in": 504576000,
+  "prev": "b13bc60b9827c59f3a784a85d1e36aded3ca30945cfb0eb426136bc89719d7b6",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9nlSKKfDt1dZHjyrpY6sWpZeSvUOnvFIns6n8BhjqrEKp3BheWxvYWTESpcCEcQgsTvGC5gnxZ86eEqF0eNq3tPKMJRc+w60JhNryJcZ17bEIG7xmCaCiC7d7kIxYvo7nV9IokN7b+sPq3y8fJY+Z6aJAgHCo3NpZ8RAiSpSpMmdg5wa5vG78m10kOe67K06XFr5whfayonwcYEHMKM/+UIlsO1BUEYmN+aNpTlCvwCXL3g2bsCB+aIJBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMdceHYaLVJWU/uMUFyj0pHb3Y+tV10lKgWgHen2jvgvo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/epower
+
+==================================================================
